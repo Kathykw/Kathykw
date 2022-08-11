@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello world.
+
+    I am more of a hardware person but have just started to learn coding via CodeSpace.
+    
+    ❊どうぞ よろしく   お願いします❊ 
+    
 
 <!--
 **Kathykw/Kathykw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
